@@ -1,5 +1,5 @@
 <h1 align="center">  Enhanced-Mondrian-Algorithm </h1>
-Implementing Enhanced Version of Mondrian Algorithm under BCI2001 Data Privacy.
+Improved the scalability and effectiveness of the Mondrian algorithm using optimized clustering process for better k-anonymity in large datasets.
 
 ## Contributors:
 |S.No. | Name                 | Reg. No   |
